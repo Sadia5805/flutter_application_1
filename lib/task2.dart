@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-class LabTask2 extends StatelessWidget {
+class ProductCard extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -99,13 +99,3 @@ void main() {
     home: ProductCard(),
   ));
 }
-                
-
-
-
-
-
-
-
-
-
